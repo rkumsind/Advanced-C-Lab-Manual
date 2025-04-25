@@ -16,8 +16,7 @@ Else
  
 Program:
 
-//type your code here
-
+# include <stdio.h>
 
 Output:
 
